@@ -1,5 +1,5 @@
 <?php 
-class object {
+class myobject {
 }
 
 
