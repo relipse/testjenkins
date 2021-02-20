@@ -72,7 +72,7 @@ jobs:
       - name: Setup PHP $
         uses: shivammathur/setup-php@v2
         with:
-          php-version: $
+          php-version: 7.4
           coverage: none
 
       # Install this project into a directory called "ci", updating PATH and
