@@ -8,9 +8,8 @@ namespace BaseNS;
  */
 class MyClass
 {
-	public function __construct()
-	{
-        	echo '123';
-    	}
+    public function __construct()
+    {
+        echo '123';
+    }
 }
-
